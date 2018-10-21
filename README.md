@@ -10,8 +10,7 @@ Graphlab- 2.1
 INSTALL GRAPHLAB
 ################
 
-
-pip install --upgrade --user --no-cache-dir  https://get.graphlab.com/GraphLab-Create/2.1/kj.james2010@vitalum.ac.in/5067-377D-2336-D54A-29DD-9EC0-B752-C358/GraphLab-Create-License.tar.gz
+pip install --upgrade --user --no-cache-dir  https://get.graphlab.com/GraphLab-Create/2.1/email-id/LICENSE KEY/GraphLab-Create-License.tar.gz
 
 
 
